@@ -109,6 +109,6 @@ Then open your browser at [http://localhost:5173](http://localhost:5173) — the
 
 ## 🙌 Acknowledgement
 
-Built as part of **Build It Hackathon**, an intra-college hackathon hosted at **IIT Indore**.
+Built as part of **Built It Hackathon**, an intra-college hackathon hosted at **IIT Indore**.
 
 ---
